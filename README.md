@@ -23,10 +23,10 @@ Patient Drug Rating : https://www.kaggle.com/datasets/rabieelkharoua/patient-rat
 
 # Key Data Insights
 1. Medical Condition Analysis:
- * Examined the top 20 medical conditions of patients.
- * Identified conditions with value counts greater than or equal to 20.
- * Further filtered for conditions with value counts exceeding 200.
- * Balanced class labels accordingly.
+    * Examined the top 20 medical conditions of patients.
+    * Identified conditions with value counts greater than or equal to 20.
+    * Further filtered for conditions with value counts exceeding 200.
+    *  Balanced class labels accordingly.
 
 2. Dataset Preparation:
    * Applied the same criteria to the test dataset.
